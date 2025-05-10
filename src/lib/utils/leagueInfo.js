@@ -7,12 +7,16 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2024, The Bachelor’s League began as an 8-man redraft league between close friends, united by competition, trash talk, and a shared obsession with fantasy football. While the laughs were loud and the stakes were low, the hunger for something greater was undeniable.</p>
+  <p>By Year 2, the league transformed into what is now known as 4th Down Society—a 10-manager keeper league built on strategy, rivalries, and long-term bragging rights. The buy-in increased, the competition tightened, and the league matured into something far more intense.</p>
+  <p>Some managers go all-in to win now, while others play the long game—hoarding youth, building depth, and trusting the process. Friends become rivals every Sunday, and every roster move can make or break a season.</p>
+  <p>While managers may come and go, the core remains strong. The group has only grown sharper, funnier, and more competitive—fueled by banter, backstabbing trades, and bold predictions.</p>
+  <p>The prize?</p>
+  <p>$350 for 1st place. $200 for 2nd. $100 for 3rd. $5 per weekly win.</p>
+  <p>And more importantly—a year of superiority in the group chat.</p>
+  <p>This isn’t just fantasy football anymore.</p>
+  <p>This is 4th Down Society.</p>
+  <p>Where champions are made when the pressure is the highest and the decisions are the biggest.</p>
 `;
 
 /*   STEP 3   */
